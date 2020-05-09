@@ -1,6 +1,6 @@
 # MasterMind
- Console application that plays MasterMind with the user
+ Console application that plays the classic game MasterMind with the user
 
-to play,
+## to play,
 
-download java file and run in any java compatible ide.
+download and unzip the project, run the MasterMind.java file on your preferred java ide.
